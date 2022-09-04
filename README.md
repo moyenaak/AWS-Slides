@@ -1,2 +1,2 @@
 # AWS-Slides
-This repository contains screenshots of all the slides of Andrew Brown's AWS video
+This repository contains PDFs and screenshots of all the slides of Andrew Brown's AWS video
